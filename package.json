@@ -1,0 +1,25 @@
+{
+  "name": "vite-plugin-glb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "play": "vite playground",
+    "test": "vitest --watch --update"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/estree": "^1.0.0",
+    "@types/node": "^18.11.9",
+    "acorn": "^8.8.1",
+    "magic-string": "^0.26.7",
+    "typescript": "^4.8.4",
+    "vite": "^3.2.3",
+    "vitest": "^0.25.2"
+  },
+  "devDependencies": {
+    "fast-glob": "^3.2.12"
+  }
+}
